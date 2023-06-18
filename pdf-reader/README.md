@@ -1,3 +1,4 @@
+- use github cli for the authentication
 - brew install python@3.11
 - python3 -m venv venv
 - source venv/bin/activate
