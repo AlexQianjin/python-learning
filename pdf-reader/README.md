@@ -1,5 +1,5 @@
 - use github cli for the authentication
 - brew install python@3.11
-- python3 -m venv venv
+- python3 -m venv .venv
 - source venv/bin/activate
 - pip install -r requirements.txt
